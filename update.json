@@ -1,0 +1,49 @@
+{
+  "game": "Dam Tycoon",
+  "latest": {
+    "version": "1.1",
+    "build": 2,
+    "type": "minor",
+    "date": "2026-10-31",
+    "title": "Clicking and Flickering fixes",
+    "notes": [
+      "Clicking anywhere on the dam while a lift is being built now speeds it up, not just the thin strip of new concrete on top.",
+      "Thanks to the player who reported these bugs!"
+    ],
+    "file": "dam-tycoon.html",
+    "size": 7133107,
+    "sha256": "3ce6dc1efb58b5c6b8453188eb8d193631d715e2cd05738629d373be8463f040"
+  },
+  "announcement": {
+    "id": "amvsd9e0y",
+    "date": "2026-10-28",
+    "title": "Hola",
+    "text": "Sigmas"
+  },
+  "log": [
+    {
+      "version": "1.1",
+      "build": 2,
+      "type": "minor",
+      "date": "2026-10-31",
+      "title": "Clicking and Flickering fixes",
+      "notes": [
+        "Clicking anywhere on the dam while a lift is being built now speeds it up, not just the thin strip of new concrete on top.",
+        "Thanks to the player who reported these bugs!"
+      ]
+    },
+    {
+      "version": "1.0",
+      "build": 1,
+      "type": "major",
+      "date": "2026-10-27",
+      "title": "Dam Tycoon is out!",
+      "notes": [
+        "Raise a hydroelectric dam lift by lift across four dam sites",
+        "Rebirths, the rebirth tree and the Marvels",
+        "Android app with touch controls"
+      ]
+    }
+  ],
+  "page": "https://fanfive99.itch.io/dam-tycoon-idle"
+}
